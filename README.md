@@ -1,6 +1,48 @@
-**Food Delivery Website: LeFestin**
+# 🍽️ LeFestin - Food Delivery Website
 
-In today's world, the concept of a food ordering website has evolved beyond mere convenience to encompass a deeper significance. Inspired by the idea of supporting small-scale entrepreneurs and celebrating homemade cooking, the project organizers established "LeFestin" This food delivery website project is part of the DE251 Web Programming course at Srinakharinwirot University. It emerges from the collective efforts of like-minded programmers who share a passion for cooking, seeking to bridge the gap between culinary enthusiasts and hungry customers.
-The origin of this concept started with the desire to empower individuals with culinary skills, offering them a digital platform to showcase their homemade dishes and enterprising spirit. By maintaining the simplicity of a food ordering system, this project helps create a community of people who establish small businesses selling their special foods and recipes, working together where technology meets homemade cooking, thereby creating opportunities for both chefs and customers alike.
-The importance of this concept extends beyond mere convenience; it represents a movement towards supporting local businesses and embracing diversity in culinary experiences. By highlighting homemade cooking styles, this project celebrates authenticity, sustainability, and creativity in the food industry. It strives to create a marketplace where homemade dishes are valued not just for their taste, but also for the stories and passion behind each recipe.
-This project is more than just a food ordering website. It's a great example of clever small business owners, cool new technology, and the happiness that comes from home cooking. As we embark on this journey, let us remember the origins of this concept and the importance of nurturing a community that values quality, authenticity, and the love that goes into every homemade meal.
+**Course:** DE251 Web Programming  
+**University:** Srinakharinwirot University
+
+---
+
+## 📌 Introduction
+
+In today's world, food ordering websites are more than just a matter of convenience — they represent an opportunity to support local talent, celebrate culinary diversity, and create meaningful digital experiences. **LeFestin** was born from this vision.
+
+This project is the result of collective efforts by students passionate about both technology and home cooking. It aims to bridge the gap between small-scale food entrepreneurs and customers who crave authentic, homemade meals.
+
+---
+
+## 🌱 Project Origin
+
+The idea for LeFestin came from a desire to **empower individuals with culinary skills** by offering them a platform to showcase their homemade dishes. This system provides:
+
+- A **simple and user-friendly interface** for food ordering.
+- A **digital space** for home chefs to reach a broader audience.
+- A **community-focused approach** to supporting local businesses.
+
+Through LeFestin, we aim to build a community where **technology meets tradition**, and where every dish has a story.
+
+---
+
+## 🌍 Vision & Impact
+
+LeFestin isn't just another food delivery service — it's a **movement**:
+
+- 💡 **Supports local businesses** and home-based chefs.
+- 🌿 **Promotes sustainability** by encouraging homemade cooking.
+- ❤️ **Celebrates culinary creativity** and cultural diversity.
+
+Each dish on LeFestin is a representation of **authentic taste**, **personal stories**, and the **love of cooking**.
+
+---
+
+## 🧩 Conclusion
+
+This project showcases how **small businesses**, **innovative technology**, and **the joy of home-cooked meals** can come together in a meaningful way.
+
+LeFestin is more than a website — it's a **celebration of community, authenticity, and entrepreneurship**.
+
+---
+
+> "Good food is the foundation of genuine happiness — and with LeFestin, we bring that happiness home." 🍲
