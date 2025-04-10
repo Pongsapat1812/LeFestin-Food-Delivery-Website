@@ -1,0 +1,77 @@
+:root {
+    --black: #000000;
+    --white: #FFFFFF;
+    --red: #AA0000;
+    --grey: #F5F5F5;
+    --darkgrey: #DCDCDC;
+    --smoke: #A9A9A9;
+    --beige: #FAF8F6;
+    --box-shadow: 0 0rem 0.25rem var(--black);
+    --border: 0.25rem var(--black);
+    --outline: 0.25rem var(--black);
+    --outline-hover: 0.25rem var(--grey);
+}
+
+body {
+    background-color: var(--beige);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.55rem 9%;
+    background: var(--white);
+    box-shadow: var(--box-shadow);
+}
+
+.logo {
+    font-family: "Princess Sofia", cursive;
+    font-size: 4rem;
+    color: var(--red);
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.member {
+    max-width: 500px;
+    margin: 0 auto 2rem;
+    padding: 2rem;
+    background-color: var(--white);
+    text-align: center;
+    box-shadow: var(--box-shadow);
+}
+
+.member img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-bottom: 2rem;
+}
+
+.member h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;;
+}
+
+.member h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;;
+}

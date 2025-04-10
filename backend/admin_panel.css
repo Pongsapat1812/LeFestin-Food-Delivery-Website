@@ -1,0 +1,21 @@
+.content {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table {
+    min-width: 1000px;
+}
+
+.container {
+    max-width: 85%;
+}
+
+.navbar-brand {
+    margin-left: 150px;
+    margin-right: 150px;
+}
